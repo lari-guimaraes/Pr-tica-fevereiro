@@ -13,5 +13,6 @@ def maskify(cc):
 
 
 palavra = (input('String or number: '))
+
 maskify(palavra)
 
